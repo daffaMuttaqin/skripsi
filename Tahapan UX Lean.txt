@@ -1,0 +1,20 @@
+1. Outcomes, Assumptions, and Hypotheses:
+- Outcomes (Hasil yang Diinginkan): Langkah pertama adalah untuk mengidentifikasi hasil yang diinginkan dari produk atau fitur yang akan dikembangkan. Ini berfokus pada apa yang ingin dicapai, bukan pada fitur atau tindakan spesifik.
+- Assumptions (Asumsi): Tim membuat daftar asumsi yang mendasari hasil yang diinginkan. Asumsi-asumsi ini berhubungan dengan pengguna, masalah yang ingin dipecahkan, dan solusi yang diusulkan.
+- Hypotheses (Hipotesis): Berdasarkan pada asumsi, tim merumuskan hipotesis tentang bagaimana mereka bisa mencapai hasil yang diinginkan. Hipotesis-hipotesis ini menjadi landasan untuk pengembangan selanjutnya.
+
+2. Design It:
+- Tim mulai mendesain solusi berdasarkan hipotesis yang telah dirumuskan. Desain ini bisa berupa sketsa, wireframe, atau prototipe interaktif.
+- Desain yang dibuat haruslah cukup fleksibel untuk berubah seiring dengan pembelajaran yang didapat melalui iterasi berikutnya.
+
+3. Create a Minimum Viable Product (MVP):
+- Berdasarkan pada desain, tim menciptakan MVP, yang merupakan versi produk yang memiliki fitur minimum yang diperlukan untuk memvalidasi hipotesis.
+- MVP dirancang untuk dikirimkan kepada pengguna secepat mungkin sehingga tim dapat memperoleh umpan balik yang berharga.
+
+4. Research and Learning:
+- Tim melakukan penelitian lebih lanjut dan menguji MVP dengan pengguna. Ini bisa melibatkan wawancara, observasi, atau pengujian pengguna.
+- Tujuan dari tahap ini adalah untuk belajar dari pengalaman pengguna dengan MVP, memvalidasi atau mengoreksi asumsi, dan mengumpulkan data untuk menginformasikan iterasi berikutnya.
+
+Penting untuk dicatat bahwa proses ini berjalan secara iteratif, dengan tim terus mengulang langkah-langkah ini untuk terus meningkatkan produk dan mendekati solusi yang optimal. Iterasi ini memungkinkan pengembangan produk yang responsif terhadap kebutuhan pengguna dan perubahan di pasar.
+
+Sumber: Lean UX: Designing Great Products with Agile Teams oleh Jeff Gothelf and Josh Seiden. (O'Reilly Media, 2016)
