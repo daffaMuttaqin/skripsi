@@ -1,0 +1,25 @@
+Fitur User
+Melihat Daftar Produk
+Melihat Detail Produk
+Melihat Produk Favorit
+Melihat Testimoni Toko
+Menambah Testimoni Toko
+Melihat Testimoni Produk
+Menambah Testimoni Produk
+Menghapus Testimoni
+Melihat Profil
+Mengedit Profil
+Mengubah Password
+Melihat Poin
+Melihat Tentang Toko
+Link ke Whatsapp
+
+Fitur Admin
+Menambahkan Produk
+Mengubah Produk
+Menghapus Produk
+Mengubah Detail Produk
+Mengubah Produk Favorit
+Menerima Testimoni Pengguna
+Menolak Testimoni Pengguna
+Menghapus Testimoni
