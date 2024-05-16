@@ -15,11 +15,11 @@ Melihat Tentang Toko
 Link ke Whatsapp
 
 Fitur Admin
-Menambahkan Produk
-Mengubah Produk
-Menghapus Produk
-Mengubah Detail Produk
-Mengubah Produk Favorit
-Menerima Testimoni Pengguna
-Menolak Testimoni Pengguna
-Menghapus Testimoni
+Menambahkan Produk (Admin)
+Mengubah Produk (Admin)
+Menghapus Produk (Admin)
+Mengubah Detail Produk (Admin)
+Mengubah Produk Favorit (Admin)
+Menerima Testimoni Pengguna (Admin)
+Menolak Testimoni Pengguna (Admin)
+Menghapus Testimoni (Admin)
